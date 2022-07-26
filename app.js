@@ -45,5 +45,3 @@ async function getData(hash) {
         console.log(data)
     }
 }
-
-// getData("QmQbA7BrBNkh1bbSgtUYdUJYsHRfvRN6k5vocxHgjadUjr")
